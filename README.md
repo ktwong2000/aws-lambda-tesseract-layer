@@ -1,3 +1,5 @@
+#https://github.com/bweigel/aws-lambda-tesseract-layer/releases/tag/v5.3.3
+
 Tesseract OCR Lambda Layer
 ===
 
